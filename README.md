@@ -6,6 +6,7 @@ A command to get stock information. Created with ❤️ by [Elitizon](https://ww
 [![Version](https://img.shields.io/npm/v/matcha-stock.svg)](https://npmjs.org/package/matcha-stock)
 [![Downloads/week](https://img.shields.io/npm/dw/matcha-stock.svg)](https://npmjs.org/package/matcha-stock)
 [![License](https://img.shields.io/npm/l/matcha-stock.svg)](https://github.com/raphaelmansuy/matcha-stock/blob/master/package.json)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraphaelmansuy%2Fmatcha-stock.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraphaelmansuy%2Fmatcha-stock?ref=badge_shield)
 
 <!-- toc -->
 
@@ -56,3 +57,7 @@ $  npx matcha-stock -s=MSFT
 │      postMarketChangePercent      │       0.31417143        │
 
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraphaelmansuy%2Fmatcha-stock.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraphaelmansuy%2Fmatcha-stock?ref=badge_large)
